@@ -1,4 +1,4 @@
-# ケース管理デモ（React + Supabase + Apryse WebViewer）
+# 契約書生成・管理・署名フローを管理するアプリケーションデモ（React + Supabase + Apryse WebViewer）
 
 ## セットアップ
 
