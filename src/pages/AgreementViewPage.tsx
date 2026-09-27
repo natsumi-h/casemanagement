@@ -48,7 +48,6 @@ async function placeSignatureField(instance: WebViewerInstance, canSign: boolean
     })
     cover.ReadOnly = true
     cover.Locked = true
-    cover.NoView = false
 
     // 署名フィールド
     const flags = new Annotations.WidgetFlags()
